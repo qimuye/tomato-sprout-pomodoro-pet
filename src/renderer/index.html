@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>番茄芽团</title>
+  </head>
+  <body>
+    <div id="app">
+      <section id="pet-shell" aria-label="番茄芽团">
+        <div id="status-bubble" class="status-bubble" aria-live="polite">
+          <div class="status-row">
+            <span id="mode-label">专注</span>
+            <strong id="time-label">25:00</strong>
+          </div>
+          <div class="progress-track">
+            <div id="progress-fill" class="progress-fill"></div>
+          </div>
+          <div class="meta-row">
+            <span id="round-label">第 1/4 轮</span>
+            <span id="status-label">待命</span>
+          </div>
+          <div class="controls">
+            <button id="primary-action" type="button">开始</button>
+            <button id="skip-action" type="button">跳过</button>
+            <button id="reset-action" type="button">重置</button>
+          </div>
+        </div>
+
+        <div id="speech-bubble" class="speech-bubble" aria-live="polite"></div>
+
+        <div id="pet-hitbox" class="pet-hitbox" role="button" tabindex="0" aria-label="拖动番茄芽团">
+          <img id="pet-image" src="./pets/tomato-sprout/states/idle.svg" alt="" draggable="false" />
+          <button id="head-zone" class="pet-zone head-zone" type="button" aria-label="查看番茄钟信息"></button>
+          <button id="body-zone" class="pet-zone body-zone" type="button" aria-label="逗逗番茄芽团"></button>
+        </div>
+      </section>
+    </div>
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

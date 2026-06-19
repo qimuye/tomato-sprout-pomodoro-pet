@@ -1,0 +1,16 @@
+node_modules/
+.tools/
+.claude/
+dist/
+release/
+out/
+.vite/
+.vitest/
+coverage/
+renders/
+vedio/
+video-showcase/
+wechat-articles/
+scripts/generate-wechat-article-art.ps1
+*.log
+*.local

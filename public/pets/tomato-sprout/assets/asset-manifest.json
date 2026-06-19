@@ -1,0 +1,35 @@
+{
+  "id": "tomato-sprout",
+  "displayName": "番茄芽团",
+  "version": "ip-v1-svg",
+  "description": "圆润番茄身体、三片嫩芽、大亮眼、两只小手和小脚的 3D 玩具感桌宠 IP。",
+  "source": "Codex generated SVG asset library based on the approved tomato sprout cover direction.",
+  "files": {
+    "activePet": "../tomato-sprout.svg",
+    "turnaround": "ip-turnaround.svg",
+    "expressionSheet": "expression-sheet.svg",
+    "actionSheet": "action-sheet.svg",
+    "states": {
+      "idle": "../states/idle.svg",
+      "running": "../states/running.svg",
+      "waving": "../states/waving.svg",
+      "jumping": "../states/jumping.svg",
+      "failed": "../states/failed.svg",
+      "waiting": "../states/waiting.svg",
+      "review": "../states/review.svg",
+      "running-right": "../states/running-right.svg",
+      "running-left": "../states/running-left.svg"
+    }
+  },
+  "stateMeaning": {
+    "idle": "待命和轻微呼吸",
+    "running": "专注中",
+    "waving": "休息或俏皮互动",
+    "jumping": "到点提醒",
+    "failed": "异常或委屈",
+    "waiting": "暂停等待",
+    "review": "悬停查看番茄钟信息",
+    "running-right": "向右拖动",
+    "running-left": "向左拖动"
+  }
+}

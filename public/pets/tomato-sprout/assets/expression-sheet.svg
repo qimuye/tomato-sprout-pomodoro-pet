@@ -1,0 +1,346 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-label="番茄芽团表情表">
+
+  <defs>
+    <radialGradient id="body" cx="34%" cy="28%" r="72%">
+      <stop offset="0" stop-color="#ff9287"/>
+      <stop offset="0.48" stop-color="#f2574f"/>
+      <stop offset="1" stop-color="#cf3038"/>
+    </radialGradient>
+    <radialGradient id="bodyBack" cx="42%" cy="24%" r="74%">
+      <stop offset="0" stop-color="#ff8278"/>
+      <stop offset="0.56" stop-color="#ea4847"/>
+      <stop offset="1" stop-color="#bc2932"/>
+    </radialGradient>
+    <linearGradient id="leafA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#92e58b"/>
+      <stop offset="1" stop-color="#3aae61"/>
+    </linearGradient>
+    <linearGradient id="leafB" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#86df83"/>
+      <stop offset="1" stop-color="#2f9c58"/>
+    </linearGradient>
+    <filter id="softDepth" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.15"/>
+      <feOffset dx="0" dy="1.4" result="offset"/>
+      <feComposite in="SourceGraphic" in2="offset" operator="over"/>
+    </filter>
+    <style>
+      .blink {
+        animation: blink 5.2s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      .blink.r {
+        animation-delay: 90ms;
+      }
+
+      @keyframes blink {
+        0%, 42%, 45%, 100% { transform: scaleY(1); }
+        43%, 44% { transform: scaleY(.12); }
+      }
+    </style>
+  </defs>
+  <text x="32" y="38" fill="#2f2723" font-size="24" font-weight="700" font-family="Microsoft YaHei UI, sans-serif">番茄芽团表情表</text>
+
+
+    <g transform="translate(34 62) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">开心</text>
+      <g transform="translate(0 0) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+    <path d="M48 116c-18 6-24 20-15 29 9 9 24 2 30-16Z" fill="#d9363f"/>
+    <path d="M144 116c18 6 24 20 15 29-9 9-24 2-30-16Z" fill="#d9363f"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+
+        <path d="M79 119c8 19 31 23 43 1 1-2-1-5-4-5H83c-3 0-5 2-4 4Z" fill="#4c1517"/>
+        <ellipse cx="104" cy="132" rx="13" ry="8" fill="#ff7469" opacity=".95"/>
+      </g>
+    </g>
+
+    <g transform="translate(214 62) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">专注</text>
+      <g transform="translate(0 0) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+    <path d="M48 116c-18 6-24 20-15 29 9 9 24 2 30-16Z" fill="#d9363f"/>
+    <path d="M144 116c18 6 24 20 15 29-9 9-24 2-30-16Z" fill="#d9363f"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <path d="M81 126c10 6 21 6 31 0" fill="none" stroke="#361f1f" stroke-width="4.8" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <g transform="translate(394 62) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">打招呼</text>
+      <g transform="translate(0 0) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+      <path d="M48 116c-18 5-25 18-17 28 8 10 25 4 31-13Z" fill="#d9363f"/>
+      <path d="M139 103c19-22 37-19 40-3 3 14-14 25-35 18Z" fill="#f15b5b"/>
+      <ellipse cx="164" cy="101" rx="16" ry="12" fill="#ff716b" opacity=".72"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+
+        <path d="M79 119c8 19 31 23 43 1 1-2-1-5-4-5H83c-3 0-5 2-4 4Z" fill="#4c1517"/>
+        <ellipse cx="104" cy="132" rx="13" ry="8" fill="#ff7469" opacity=".95"/>
+      </g>
+    </g>
+
+    <g transform="translate(574 62) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">等待</text>
+      <g transform="translate(0 0) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+      <path d="M54 126c-17 6-22 18-13 26 9 8 22 1 28-15Z" fill="#d9363f"/>
+      <path d="M138 126c17 6 22 18 13 26-9 8-22 1-28-15Z" fill="#d9363f"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <path d="M82 124c11 9 23 9 34 0" fill="none" stroke="#361f1f" stroke-width="5.2" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <g transform="translate(34 302) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">查看</text>
+      <g transform="translate(0 0) rotate(-4 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+      <path d="M47 116c-18 8-22 22-12 30 10 8 23-1 28-18Z" fill="#d9363f"/>
+      <path d="M137 110c17-1 27 9 24 20-3 11-18 12-32 2Z" fill="#ec4d51"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="8.064000000000002" ry="10.528000000000002" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="8.064000000000002" ry="10.528000000000002" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+
+        <path d="M79 119c8 19 31 23 43 1 1-2-1-5-4-5H83c-3 0-5 2-4 4Z" fill="#4c1517"/>
+        <ellipse cx="104" cy="132" rx="13" ry="8" fill="#ff7469" opacity=".95"/>
+      </g>
+    </g>
+
+    <g transform="translate(214 302) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">委屈</text>
+      <g transform="translate(0 0) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(0 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+      <path d="M49 126c-16 6-20 19-10 27 10 7 22-1 26-17Z" fill="#d9363f"/>
+      <path d="M143 126c16 6 20 19 10 27-10 7-22-1-26-17Z" fill="#d9363f"/>
+
+    <ellipse cx="66" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+      <path d="M67 102c7-6 14-6 21 0" fill="none" stroke="#251b1b" stroke-width="4.6" stroke-linecap="round"/>
+      <path d="M109 102c7-6 14-6 21 0" fill="none" stroke="#251b1b" stroke-width="4.6" stroke-linecap="round"/>
+      <ellipse cx="57" cy="120" rx="10" ry="5.5" fill="#ff8f88" opacity=".4"/>
+      <ellipse cx="136" cy="120" rx="10" ry="5.5" fill="#ff8f88" opacity=".4"/>
+      <path d="M80 134c10-7 22-7 32 0" fill="none" stroke="#361f1f" stroke-width="5" stroke-linecap="round"/>
+      <path d="M128 107c5 8 5 15 0 21" fill="none" stroke="#8bd7ff" stroke-width="5" stroke-linecap="round" opacity=".92"/>
+      </g>
+    </g>
+
+    <g transform="translate(394 302) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">提醒</text>
+      <g transform="translate(0 -8) rotate(0 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(-3 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+    <path d="M48 116c-18 6-24 20-15 29 9 9 24 2 30-16Z" fill="#d9363f"/>
+    <path d="M144 116c18 6 24 20 15 29-9 9-24 2-30-16Z" fill="#d9363f"/>
+
+    <ellipse cx="66" cy="169" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="126" cy="169" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+
+        <path d="M79 119c8 19 31 23 43 1 1-2-1-5-4-5H83c-3 0-5 2-4 4Z" fill="#4c1517"/>
+        <ellipse cx="104" cy="132" rx="13" ry="8" fill="#ff7469" opacity=".95"/>
+      </g>
+    </g>
+
+    <g transform="translate(574 302) scale(0.88)">
+      <text x="96" y="204" text-anchor="middle" fill="#7a5a47" font-size="13" font-family="Microsoft YaHei UI, sans-serif">拖动</text>
+      <g transform="translate(0 0) rotate(-4 96 112)" filter="url(#softDepth)">
+
+    <g transform="rotate(-6 96 45)">
+      <path d="M91 47c-22-24-49-22-64 1 26 4 46 4 64-1Z" fill="url(#leafA)"/>
+      <path d="M101 47c14-29 43-35 65-15-18 18-39 25-65 15Z" fill="url(#leafB)"/>
+      <path d="M96 46c-8-29 8-43 28-46 1 27-8 42-28 46Z" fill="#61c978"/>
+      <path d="M84 52c-7-13 0-24 14-30 8 14 3 26-14 30Z" fill="#3ba060"/>
+      <path d="M126 26c9 3 17 4 27 0" fill="none" stroke="#baf0b4" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+
+      <path d="M54 114c-18-2-28 8-25 20 3 11 18 13 32 2Z" fill="#ec4d51"/>
+      <path d="M142 122c18 7 22 20 12 29-9 7-23-1-27-17Z" fill="#d9363f"/>
+
+    <ellipse cx="62" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+    <ellipse cx="124" cy="177" rx="18" ry="13" fill="#bd2c34"/>
+        <ellipse cx="96" cy="112" rx="63" ry="65" fill="url(#body)"/>
+        <ellipse cx="75" cy="85" rx="35" ry="27" fill="#fff" opacity=".18"/>
+        <path d="M55 104c0-26 18-48 44-55" fill="none" stroke="#ffc4bd" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+
+    <g class="blink">
+      <ellipse cx="72" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="69.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="74" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <g class="blink r">
+      <ellipse cx="121" cy="101" rx="7.2" ry="9.4" fill="#211919"/>
+      <circle cx="118.5" cy="97.5" r="2.5" fill="#fff" opacity=".94"/>
+      <circle cx="123" cy="105" r="1.2" fill="#fff" opacity=".45"/>
+    </g>
+    <ellipse cx="58" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+    <ellipse cx="136" cy="121" rx="11" ry="6" fill="#ff8f88" opacity=".48"/>
+
+        <path d="M79 119c8 19 31 23 43 1 1-2-1-5-4-5H83c-3 0-5 2-4 4Z" fill="#4c1517"/>
+        <ellipse cx="104" cy="132" rx="13" ry="8" fill="#ff7469" opacity=".95"/>
+      </g>
+    </g>
+</svg>
